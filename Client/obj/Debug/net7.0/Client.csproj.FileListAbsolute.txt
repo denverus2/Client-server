@@ -1,0 +1,15 @@
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\bin\Debug\net7.0\Client.exe
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\bin\Debug\net7.0\Client.deps.json
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\bin\Debug\net7.0\Client.dll
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\bin\Debug\net7.0\Client.pdb
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.dll
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\refint\Client.dll
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.pdb
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+D:\Users\Денис\Documents\GBLesson\BootCamp\Client-server\Client\obj\Debug\net7.0\ref\Client.dll
